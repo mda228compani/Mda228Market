@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>wedsite</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="сайт">
+  </head>
+  <body background="background.jpg">
+    <h1>заголовок</h1>
+    <p>текст и всё</p>
+    <p><b>текст жирный</b></p>
+    <p><em>текст курсив</em></p>
+  </body>
+</html>
